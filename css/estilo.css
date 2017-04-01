@@ -1,0 +1,9 @@
+.linha-cinza {
+	background: gray;
+}
+
+.linha-personalizada {
+	background: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
